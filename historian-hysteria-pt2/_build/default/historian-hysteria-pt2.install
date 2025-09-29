@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/historian-hysteria-pt2/META"
+  "_build/install/default/lib/historian-hysteria-pt2/dune-package"
+  "_build/install/default/lib/historian-hysteria-pt2/opam"
+]
+bin: [
+  "_build/install/default/bin/historian-hysteria-pt2"
+]
